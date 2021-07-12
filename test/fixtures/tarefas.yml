@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  descricao: MyString
+  duracao: 1.5
+  periodo: 1
+  conclusao: 2021-07-11 13:05:31
+  grupo_id: 1
+
+two:
+  descricao: MyString
+  duracao: 1.5
+  periodo: 1
+  conclusao: 2021-07-11 13:05:31
+  grupo_id: 1
